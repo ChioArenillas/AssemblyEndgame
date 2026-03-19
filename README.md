@@ -6,6 +6,10 @@ Assembly Endgame is an interactive game built with React where the user must gue
 
 Each incorrect guess removes a "language", and the game ends when the word is completed or no attempts remain.
 
+## 🚀 Live Demo
+
+https://assembly-endgame-nine-mu.vercel.app/
+
 ## 🚀 Technologies
 
 * React
